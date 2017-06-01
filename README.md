@@ -1,1 +1,1 @@
-#  devops-lesson-3
+#  DevOps Lesson 3
