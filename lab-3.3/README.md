@@ -1,6 +1,6 @@
 # DevOps Lab 3.3 Hadoop
 
-Set up Hadoop and run a map reduce job.
+Set up Hadoop and run a map reduce job
 
 ### Step 1
 
