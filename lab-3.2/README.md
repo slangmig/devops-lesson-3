@@ -1,6 +1,6 @@
 # Devops Lab 3.2 Docker Volumes
 
-Working with Docker volumes.
+Working with Docker volumes
 
 ### Step 1
 
